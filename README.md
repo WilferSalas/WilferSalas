@@ -10,9 +10,9 @@ I'm Wilfer Salas. I'm a software developer based in Medellin CO, specializing in
 
 <h4>🛠 Tech Stack</h4>
 
+- 🌐  **Frontend**:  React, Next, Gatsby, Electron and Remix
 - 📱  **Mobile**:  React Native
 - 🗄  **Backend**:  Express
-- 🌐  **Frontend**:  React, Next, Gatsby, Electron and Remix
 - 🛢  **Database**:  MongoDB and GraphQL
 - ⚙️  **VCS**:   GitHub
-- 🔧  **IDE's**:  Visual Studio Code Vim
+- 🔧  **IDE's**:  Visual Studio Code
