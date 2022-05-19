@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<h2>Hi 👋! I'm Wilfer Salas.</h2>
+<h2>Hi! 👋</h2>
 
-I'm a software developer based in Medellin CO, specializing in building exceptional websites and mobile applications, and everything in between.
+I'm Wilfer Salas, I'm a software developer based in Medellin CO, specializing in building exceptional websites and mobile applications, and everything in between.
 
 <h4>🛠 Tech Stack</h4>
 
