@@ -8,7 +8,8 @@
 
 I'm a software developer based in Medellin CO, specializing in building exceptional websites and mobile applications, and everything in between.
 
-- 🛠  **Tech Stack**
+<h4>🛠 Tech Stack</h4>
+
 - 📱  **Mobile**:  React Native
 - 🗄  **Backend**:  Express.js
 - 🌐  **Frontend**:  React, Next.js, Gatsby, Electron and Remix
